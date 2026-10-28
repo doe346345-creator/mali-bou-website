@@ -14,9 +14,13 @@ mali-bou-website
           </p>
           <div class="flex items-center justify-between pt-4 border-t border-slate-200 dark:border-slate-800">
             <span class="text-xs text-sakura-600 dark:text-cyber-neonBlue font-semibold">Status: Ongoing</span>
-            <button onclick="openReader('Your New Book Title', 'Chapter 1: The Beginning\n\nWrite the full text of your chapter or preview excerpt right here inside these quotes...')" class="px-4 py-2 rounded-lg bg-sakura-100 hover:bg-sakura-200 text-sakura-600 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-cyber-neonBlue font-bold text-xs uppercase tracking-wider transition-colors flex items-center gap-1.5">
+            <button onclick="openReader('Your New Book Title', 'Chapter 1: The Beginning\n\nWrite the full text of your chapter or preview excerpt right here inside these quotes...')" class="px-4 py-2 rounded-lg bg-sakura-100 hover:bg-sakura-200 text-sakura-600 dark:bg-slate-800 dark:hover:bg-slate-700 dark:text-cyber-neonBlue font-bold text-xs uppercase tracking-wider transition-colors flex 
+            
+            
+            items-center gap-1.5">
               Read Chapter <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
             </button>
           </div>
         </div>
       </div>
+file:///C:/Users/Administrator/Downloads/mali_bou_s_storyverse_author_hub.html
